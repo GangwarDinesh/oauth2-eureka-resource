@@ -1,0 +1,10 @@
+http://localhost:9191/auth-service/oauth/token
+
+Authorization:
+		Basic Auth:
+			Username : agency
+			Password : agency
+Body:
+	grant_type : password
+	username : Dinesh
+	password : 12345
